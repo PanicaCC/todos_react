@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a19995-850c-4d40-9658-ec7cf0f47873" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoFilter/todoFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoFilter/todoFilter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoList/todoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoList/todoList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoListItem/todoListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoListItem/todoListItem.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +49,7 @@
       <updated>1612172877381</updated>
       <workItem from="1612172879822" duration="1847000" />
       <workItem from="1612174771786" duration="140000" />
-      <workItem from="1612174966236" duration="13813000" />
+      <workItem from="1612174966236" duration="14131000" />
     </task>
     <servers />
   </component>
