@@ -1,0 +1,21 @@
+.todo__list--item {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 4px;
+  margin-bottom: 15px;
+
+  &.important p {
+    font-weight: bold;
+    color: tomato;
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
