@@ -28,7 +28,6 @@ class App extends Component {
             console.log(targetElement)
             //todo finish set important
         }
-
         //todo create fun to delete item from Array
 
         return (
