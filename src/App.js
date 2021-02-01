@@ -63,9 +63,6 @@ class App extends Component {
         const title = 'My todo list!'
         const data = this.state.data
 
-
-
-
         return (
             <div className={"todo"}>
                 <h1>{ title }</h1>
