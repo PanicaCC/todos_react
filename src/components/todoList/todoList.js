@@ -13,7 +13,9 @@ const TodoList = props => {
                         index={ index }
                         key={ item.label+item.id }
                         item={ item }
+                        completeTodosHandler={ props.completeTodosHandler}
                         setImportantHandler={ props.setImportantHandler }
+                        deleteTodosHandler = { props.deleteTodosHandler }
                     />
                 )
             }) }

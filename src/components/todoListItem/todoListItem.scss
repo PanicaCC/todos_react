@@ -1,5 +1,6 @@
 .todo__list--item {
-  padding: 5px 10px;
+  display: flex;
+  align-items: center;
   border: 1px solid #ccc;
   background: white;
   border-radius: 4px;
@@ -10,12 +11,52 @@
     color: tomato;
   }
 
+  &.done p {
+    text-decoration: line-through;
+    color: darkgray;
+  }
+
   p {
     margin: 0;
-    padding: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+    width: 100%;
   }
 
   &:last-child {
     margin-bottom: 0;
   }
+
+  button {
+    margin: 0 5px;
+    background: none;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+    width: 25px;
+    height: 25px;
+
+    &.todo__action--delete {
+
+      color: darkred;
+      transition: all ease-in-out .3s;
+
+      &:hover {
+        background: darkred;
+        color: #FFF;
+      }
+    }
+
+    &.todo__action--mark {
+
+      color: tomato;
+      transition: all ease-in-out .3s;
+
+      &:hover {
+        background: tomato;
+        color: #FFF;
+      }
+    }
+  }
+
 }
