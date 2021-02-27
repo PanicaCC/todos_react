@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70a19995-850c-4d40-9658-ec7cf0f47873" name="Default Changelist" comment="" />
+    <list default="true" id="70a19995-850c-4d40-9658-ec7cf0f47873" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1nsJU9DhjuIJqwcAXgJgshTJlbi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,22 +48,36 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\Learn React\todo-react\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="D:\Learn React\test-dev-today\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learn React\blog-dev-today\pages" />
+      <recent name="D:\Learn JS\event_calendar\src" />
+      <recent name="D:\Learn JS\event_calendar" />
       <recent name="D:\Learn React\todo-react\src" />
       <recent name="D:\Learn React\todo-react\src\components\todoList" />
-      <recent name="D:\Learn React\todo-react\src\components\todoFilter" />
-      <recent name="D:\Learn React\todo-react\src\components\todoStatus" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learn React\blog-dev-today\components" />
+      <recent name="D:\Learn JS\event_calendar\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +91,20 @@
       <workItem from="1612172879822" duration="1847000" />
       <workItem from="1612174771786" duration="140000" />
       <workItem from="1612174966236" duration="21711000" />
+      <workItem from="1612341557224" duration="26032000" />
+      <workItem from="1612773631917" duration="34000" />
+      <workItem from="1612773745988" duration="69000" />
+      <workItem from="1612773868536" duration="84000" />
+      <workItem from="1612773975528" duration="603000" />
+      <workItem from="1612774594898" duration="110000" />
+      <workItem from="1612775321742" duration="34141000" />
+      <workItem from="1612880043301" duration="20900000" />
+      <workItem from="1613046061520" duration="33211000" />
+      <workItem from="1613379358262" duration="4258000" />
+      <workItem from="1613388528812" duration="22755000" />
+      <workItem from="1613427893863" duration="7602000" />
+      <workItem from="1614156310396" duration="663000" />
+      <workItem from="1614350338497" duration="15284000" />
     </task>
     <servers />
   </component>
@@ -64,5 +122,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
