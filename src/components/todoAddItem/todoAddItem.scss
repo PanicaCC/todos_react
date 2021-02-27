@@ -1,6 +1,20 @@
 .todo__action--add {
   display: flex;
 
+  input {
+    flex: 1;
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+
+    &:focus {
+      border: 1px solid #ccc;
+      box-shadow: 0 0 1px rgba(0,0,0, .5);
+    }
+  }
+
   button {
     margin-left: 15px;
   }
