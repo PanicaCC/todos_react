@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70a19995-850c-4d40-9658-ec7cf0f47873" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoFilter/todoFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoFilter/todoFilter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoList/todoList.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoList/todoList.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +107,7 @@
       <workItem from="1613388528812" duration="22755000" />
       <workItem from="1613427893863" duration="7602000" />
       <workItem from="1614156310396" duration="663000" />
-      <workItem from="1614350338497" duration="15284000" />
+      <workItem from="1614350338497" duration="17441000" />
     </task>
     <servers />
   </component>
