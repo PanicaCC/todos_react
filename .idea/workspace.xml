@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70a19995-850c-4d40-9658-ec7cf0f47873" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_02_02_2021_2_00_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_02_02_2021_2_00__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoAddItem/todoAddItem.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoSearch/todoSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoStatus/todoStatus.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +39,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectId" id="1nsJU9DhjuIJqwcAXgJgshTJlbi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -61,7 +59,7 @@
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="D:\Learn React\test-dev-today\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="D:\Learn React\todo-react\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -106,7 +104,7 @@
       <workItem from="1613388528812" duration="22755000" />
       <workItem from="1613427893863" duration="7602000" />
       <workItem from="1614156310396" duration="663000" />
-      <workItem from="1614350338497" duration="731000" />
+      <workItem from="1614350338497" duration="15284000" />
     </task>
     <servers />
   </component>
